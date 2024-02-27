@@ -1,16 +1,17 @@
-table{
-    padding-top: 100px;
-    padding-left: 100px;
-    padding-bottom: 20px;
-    
+
+table {
+  padding-top: 100px;
+  padding-left: 100px;
+  padding-bottom: 20px;
+  border:"1";
 }
-th{
-    color: whitesmoke;
-    background-color: rgb(78, 90, 25);
+th {
+  color: whitesmoke;
+  background-color: rgb(78, 90, 25);
 }
-.submit{
-    font-size: medium;
- color: whitesmoke;
- margin-left: 100px;
- background-color: rgb(78, 90, 25);;
+.submit {
+  font-size: large;
+  color: whitesmoke;
+  margin-left: 100px;
+  background-color: rgb(78, 90, 25);
 }

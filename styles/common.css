@@ -1,52 +1,50 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    background-color: rgba(70, 32, 32, 0.986);
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgba(70, 32, 32, 0.986);
 }
-.background-1{
-    background-color: rgb(78, 90, 25);
+.background-1 {
+  background-color: rgb(78, 90, 25);
 }
-header{
-    padding: 20px;
-    /* align-items: center; */
-    
+header {
+  padding: 20px;
+  /* align-items: center; */
 }
-h1{
-    text-align: left;
-    display: inline-block;
-    border: 0;
-    color: rgb(180, 184, 187);
+h1 {
+  text-align: left;
+  display: inline-block;
+  border: 0;
+  color: rgb(180, 184, 187);
 }
-nav{
-    background-color: rgb(78, 90, 25);
-    /* text-align: right; */
-    float:right;
-    /* display: inline; */
+nav {
+  background-color: rgb(78, 90, 25);
+  /* text-align: right; */
+  float: right;
+  /* display: inline; */
 }
 nav ul {
-    background-color: rgb(78, 90, 25);
-    margin-left: 60px;
-    text-align: left;
-    overflow: hidden;
+  background-color: rgb(78, 90, 25);
+  margin-left: 60px;
+  text-align: left;
+  overflow: hidden;
 }
 nav li {
-    background-color:rgb(78, 90, 25);
-    display:inline-block;
-    margin-left: 20px;
+  background-color: rgb(78, 90, 25);
+  display: inline-block;
+  margin-left: 20px;
 }
-nav li a{
-    background-color: rgb(78, 90, 25);
-    color: white
+nav li a {
+  background-color: rgb(78, 90, 25);
+  color: white;
 }
 
 nav li a:hover {
-    
-    color: brown;
+  color: brown;
 }
-h2{
-    border-radius: 20px;
-    padding: 10px;
-    color: aliceblue;
-    background-color: rgba(70, 32, 32, 0.986);
+h2 {
+  border-radius: 20px;
+  padding: 10px;
+  color: aliceblue;
+  background-color: rgba(70, 32, 32, 0.986);
 }
