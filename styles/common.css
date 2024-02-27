@@ -2,10 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: rgb(6, 6, 124);
+    background-color: rgba(70, 32, 32, 0.986);
 }
 .background-1{
-    background-color: rgb(3, 3, 78) ;
+    background-color: rgb(78, 90, 25);
 }
 header{
     padding: 20px;
@@ -19,33 +19,34 @@ h1{
     color: rgb(180, 184, 187);
 }
 nav{
-    background-color: rgb(3,3,78);
+    background-color: rgb(78, 90, 25);
     /* text-align: right; */
     float:right;
     /* display: inline; */
 }
 nav ul {
-    background-color: rgb(3,3,78);
+    background-color: rgb(78, 90, 25);
     margin-left: 60px;
     text-align: left;
     overflow: hidden;
 }
 nav li {
-    background-color: rgb(3,3,78);
+    background-color:rgb(78, 90, 25);
     display:inline-block;
     margin-left: 20px;
 }
 nav li a{
-    background-color: rgb(3,3,78);
-    color: rgb(130, 175, 238);
+    background-color: rgb(78, 90, 25);
+    color: white
 }
 
 nav li a:hover {
     
-    color: rgb(49, 74, 145);
+    color: brown;
 }
 h2{
     border-radius: 20px;
     padding: 10px;
-    background-color: lightblue;
+    color: aliceblue;
+    background-color: rgba(70, 32, 32, 0.986);
 }
